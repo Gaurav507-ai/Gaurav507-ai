@@ -12,7 +12,7 @@
 
 ## About me:
 
-- I’m currently working at **Nextuple**
+- I’m currently working as a software engineer at **Nextuple**
 
 - Favourite quote: **Do what you love, love what you do!**
 
