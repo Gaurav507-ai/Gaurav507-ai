@@ -14,18 +14,10 @@
 
 - I’m currently working as a software engineer at **Nextuple**
 
-- Favourite quote: **Do what you love, love what you do!**
-
-- Also this one: **Never trade your passion for glory!!!**
-
 - I love to learn new things and I am always ready to try something new.
 
 - Connect with me on LinkedIn to discuss about work or anything you like: <code>
   <a href="https://www.linkedin.com/in/gaurav-kundwani-6a160a201/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-
-- Currently reading **The Alchemist by Paulo Coelho**
-
-- Fun fact **I am very humorous 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
